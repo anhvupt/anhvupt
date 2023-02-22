@@ -10,7 +10,7 @@ I'm a mid-level web developer based in Vietnam. I enjoy building web application
 
 💬 Ask me about Angular, .NET Core, TypeScript, or anything related to web development!
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anhvupt), [Instagram](https://www.instagram.com/anhvupt)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anhvupt), [Instagram](https://www.instagram.com/_anhvupt)
 
 😄 Pronouns: he/him
 
