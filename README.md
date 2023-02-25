@@ -1,6 +1,6 @@
 ### Hi there, I'm Vu Pham 👋
 
-I'm a mid-level web developer based in Vietnam. I enjoy building web applications using .NET Core, Angular, and TypeScript. I'm also interested in system design, design patterns, and learning about new technologies.
+I'm a web developer based in Vietnam. I enjoy building web applications using .NET Core, Angular, and TypeScript. I'm also interested in system design, design patterns, and learning about new technologies.
 
 🔭 I’m currently working on building scalable web applications using Angular and .NET Core.
 
