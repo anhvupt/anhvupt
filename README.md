@@ -21,8 +21,6 @@ I've lauched my blog at [varundef](https://www.varundef.com)
 - Bachelor of Software Engineering, Dalat University (2016-2021)
 - GPA: 3.23/4.00
 
-🎓 I have intermediate certification in Angular from HackerRank.
-
 🏆 My GitHub stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhvupt&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
