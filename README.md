@@ -19,7 +19,6 @@ I've lauched my blog at [varundef](https://www.varundef.com)
 ### Education
 
 - Bachelor of Software Engineering, Dalat University (2016-2021)
-- GPA: 3.23/4.00
 
 🏆 My GitHub stats:
 
