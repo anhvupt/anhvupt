@@ -6,7 +6,7 @@ I've lauched my blog at [varundef](https://www.varundef.com)
 
 🔭 I’m currently working on building scalable web applications using Angular and .NET Core.
 
-🌱 I’m currently learning about cloud technologies like Azure and AWS.
+🌱 I’m currently learning about cloud technologies like Azure and AWS and other web frameworks.
 
 👯 I’m looking to collaborate on open source projects related to web development.
 
