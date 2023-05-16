@@ -10,8 +10,6 @@ I've lauched my blog at [varundef](https://www.varundef.com)
 
 👯 I’m looking to collaborate on open source projects related to web development.
 
-💬 Ask me about Angular, .NET Core, TypeScript, or anything related to web development!
-
 📫 How to reach me: [Twitter](https://twitter.com/anhvupt), [LinkedIn](https://www.linkedin.com/in/anhvupt), [Instagram](https://www.instagram.com/_anhvupt), [Stackblizt](https://stackblitz.com/@anhvupt)
 
 😄 Pronouns: he/him
