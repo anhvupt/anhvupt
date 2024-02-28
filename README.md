@@ -17,7 +17,3 @@ I've lauched my blog at [varundef.com](https://www.varundef.com)
 ### Education
 
 - Bachelor of Software Engineering, Dalat University (2016-2021)
-
-🏆 My GitHub stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhvupt&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
