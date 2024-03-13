@@ -9,7 +9,3 @@ I've lauched my blog at [varundef.com](https://www.varundef.com)
 📫 How to reach me: [Twitter](https://twitter.com/anhvupt), [LinkedIn](https://www.linkedin.com/in/anhvupt), [Instagram](https://www.instagram.com/_anhvupt), [Stackblizt](https://stackblitz.com/@anhvupt)
 
 😄 Pronouns: he/him
-
-### Education
-
-- Bachelor of Software Engineering, Dalat University (2016-2021)
