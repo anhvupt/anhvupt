@@ -1,6 +1,6 @@
 ### Hi there, I'm Vu Pham 👋
 
-I'm a web developer based in Vietnam. I enjoy building web applications using .NET Core, Angular, and TypeScript. I'm also interested in system design, design patterns, and learning about new technologies.
+I am a web developer, specializing in .NET Core, Angular, and TypeScript. I focus on building scalable and maintainable web applications while continuously improving my skills in modern development practices. Passionate about clean code and performance optimisation, I strive to deliver efficient and reliable solutions.
 
 I've lauched my blog at [varundef.com](https://www.varundef.com) 
 
@@ -8,4 +8,9 @@ I've lauched my blog at [varundef.com](https://www.varundef.com)
 
 📫 How to reach me: [Twitter](https://twitter.com/anhvupt), [LinkedIn](https://www.linkedin.com/in/anhvupt), [Instagram](https://www.instagram.com/_anhvupt), [Stackblizt](https://stackblitz.com/@anhvupt)
 
-😄 Pronouns: he/him
+## 📌 Side Projects  
+- 💻 **Personal Blog:** [varundef.com](https://www.varundef.com)  
+- ☕ **Bakery & Coffee Shop:** [librakitchen.com](https://www.librakitchen.com)  
+- 🍽️ **Culture & Food Exploration in Da Lat:** [dinewithdalators.com](https://www.dinewithdalators.com)  
+
+
