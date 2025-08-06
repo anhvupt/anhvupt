@@ -6,7 +6,7 @@ I've lauched my blog at [varundef.com](https://www.varundef.com)
 
 🌱 I’m currently working on building scalable web applications using Angular and .NET Core.
 
-📫 How to reach me: [Twitter](https://twitter.com/anhvupt), [LinkedIn](https://www.linkedin.com/in/anhvupt), [Instagram](https://www.instagram.com/_anhvupt), [Stackblizt](https://stackblitz.com/@anhvupt)
+📫 How to reach me: [Twitter](https://twitter.com/anhvupt), [LinkedIn](https://www.linkedin.com/in/anhvupt), [Stackblizt](https://stackblitz.com/@anhvupt)
 
 ## 📌 Side Projects  
 - 💻 **Personal Site/Blog:** [varundef.com](https://www.varundef.com/about)  
