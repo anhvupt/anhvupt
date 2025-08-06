@@ -1,6 +1,6 @@
 ### Hi there, I'm Vu Pham 👋
 
-I am a web developer, specializing in .NET Core, Angular, and TypeScript. I focus on building scalable and maintainable web applications while continuously improving my skills in modern development practices. Passionate about clean code and performance optimisation, I strive to deliver efficient and reliable solutions.
+Full-stack web developer with 5 years of experience specializing in Angular and .NET. Skilled in building scalable, maintainable applications with REST APIs, microservices, and cloud deployment (Azure/AWS). Passionate about clean code, performance optimization, and delivering reliable solutions. Experienced in mentoring junior developers and leading code reviews.
 
 I've lauched my blog at [varundef.com](https://www.varundef.com) 
 
