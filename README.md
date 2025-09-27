@@ -9,6 +9,7 @@ I've lauched my blog at [varundef.com](https://www.varundef.com)
 📫 How to reach me: [Twitter](https://twitter.com/anhvupt), [LinkedIn](https://www.linkedin.com/in/anhvupt), [Stackblizt](https://stackblitz.com/@anhvupt)
 
 ## 📌 Side Projects  
+- **Moninote app** [moninote.com](https://www.moninote.com)
 - 💻 **Personal Site/Blog:** [varundef.com](https://www.varundef.com/about)  
 - ☕ **Bakery & Coffee Shop:** [librakitchen.com](https://www.librakitchen.com)  
 - 🍽️ **Culture & Food Exploration in Da Lat:** [dinewithdalators.com](https://www.dinewithdalators.com)  
