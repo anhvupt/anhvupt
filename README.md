@@ -10,8 +10,9 @@ I've lauched my blog at [varundef.com](https://www.varundef.com)
 
 ## 📌 Side Projects  
 - **Moninote app** [moninote.com](https://www.moninote.com)
+- **Lamdongmoi** [lamdongmoi.com](https://www.lamdongmoi.com)
 - 💻 **Personal Site/Blog:** [varundef.com](https://www.varundef.com/about)  
 - ☕ **Bakery & Coffee Shop:** [librakitchen.com](https://www.librakitchen.com)  
-- 🍽️ **Culture & Food Exploration in Da Lat:** [dinewithdalators.com](https://www.dinewithdalators.com)  
+- 🍽️ **Culture & Food Exploration in Da Lat:** [dinewithdalators.com](https://www.dinewithdalators.com)
 
 
