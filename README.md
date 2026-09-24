@@ -7,7 +7,7 @@ I've lauched my blog at [varundef.com](https://www.varundef.com)
 🌱 I’m currently working on building scalable web applications using Angular and .NET Core.
 
 📫 How to reach me: [Threads](https://www.threads.com/@_anhvupt), [LinkedIn](https://www.linkedin.com/in/anhvupt),
-## 📌 Side Projects  
+## 📌 My Projects  
 - 🍽️ ☕ 💻 **Lamdongmoi** [lamdongmoi.com](https://www.lamdongmoi.com)
 - 💻 **Personal Site/Blog:** [varundef.com](https://www.varundef.com/about)  
 
