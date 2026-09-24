@@ -1,4 +1,4 @@
-### Hi there, I'm Vu Pham 👋
+### Hi there, I'm Vu 👋
 
 Full-stack engineer with 6+ years taking products from zero to production — owning delivery, iteration, and production stability. I've shipped AI-integrated platforms, multi-tenant SaaS, and real-time systems that real users depend on. I work directly with founders to turn ambiguous requirements into working software, use AI tooling (Cursor, Claude) as a force multiplier, and take full ownership of outcomes.
 
