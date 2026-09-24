@@ -6,7 +6,7 @@ Full-stack engineer with 6+ years taking products from zero to production — ow
 
 📫 How to reach me: [Threads](https://www.threads.com/@_anhvupt), [LinkedIn](https://www.linkedin.com/in/anhvupt),
 ## 📌 My Projects  
-- 🍽️ ☕ 💻 **Lamdongmoi** [lamdongmoi.com](https://www.lamdongmoi.com)
+- 🍽️ ☕ 💻 **Lamdongmoi** [lamdongmoi.vn](https://www.lamdongmoi.vn)
 - 💻 **Personal Site/Blog:** [varundef.com](https://www.varundef.com/about)  
 
 
