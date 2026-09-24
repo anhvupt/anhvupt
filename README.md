@@ -1,8 +1,6 @@
 ### Hi there, I'm Vu Pham 👋
 
-Full-stack web developer with 6 years of experience specializing in Angular and .NET. Skilled in building scalable, maintainable applications with REST APIs, microservices, and cloud deployment (Azure/AWS). Passionate about clean code, performance optimization, and delivering reliable solutions. Experienced in mentoring junior developers and leading code reviews.
-
-I've lauched my blog at [varundef.com](https://www.varundef.com) 
+Full-stack engineer with 6+ years taking products from zero to production — owning delivery, iteration, and production stability. I've shipped AI-integrated platforms, multi-tenant SaaS, and real-time systems that real users depend on. I work directly with founders to turn ambiguous requirements into working software, use AI tooling (Cursor, Claude) as a force multiplier, and take full ownership of outcomes.
 
 🌱 I’m currently working on building scalable web applications using Angular and .NET Core.
 
